@@ -5,6 +5,7 @@ $(document).ready(function() {
         lowerThan: 'transform',
         languagePath: 'outdatedbrowser/lang/en.html'
     });
+    $.backstretch("https://github.com/GeneralJim/yugo/blob/master/img/backgroundimg.jpg");
     $('.generator-form .cc-username-wrap').animateCSS("bounceInUp", {
         delay: 100
     });
