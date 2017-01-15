@@ -5,7 +5,7 @@ $(document).ready(function() {
         lowerThan: 'transform',
         languagePath: 'outdatedbrowser/lang/en.html'
     });
-    $.backstretch("http://www.yugioh-world.com/wp-content/uploads/2016/01/duel_links_temp_title.jpg");
+    $.backstretch("https://github.com/GeneralJim/yugo/blob/master/img/backgroundimg.jpg");
     $('.generator-form .cc-username-wrap').animateCSS("bounceInUp", {
         delay: 100
     });
