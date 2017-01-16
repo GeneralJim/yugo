@@ -180,7 +180,7 @@ $(document).ready(function() {
                 delay: 5,
                 placeholder: '<span class="console_text white">',
                 render_strategy: 'text-by-char',
-                items: "open_ssl_connection mario_run -s 28.3.4.53.2 -deobfuscate -encrypt_aes_256"
+                items: "open_ssl_connection yu_gi_oh_duel_links -s 28.3.4.53.2 -deobfuscate -encrypt_aes_256"
             }, {
                 delay: 200
             }, {
