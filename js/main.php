@@ -394,7 +394,7 @@ $(document).ready(function() {
                 delay: 5,
                 placeholder: '<span class="console_text green">',
                 render_strategy: 'text-one-shot',
-                items: "\nToads successfully changed."
+                items: "\nGems successfully changed."
             }, {
                 animation: 'additive',
                 delay: 5,
@@ -417,7 +417,7 @@ $(document).ready(function() {
                 delay: 5,
                 placeholder: '<span class="console_text green">',
                 render_strategy: 'text-one-shot',
-                items: "\nRally Tickets successfully changed."
+                items: "\nCard Packs successfully changed."
             }, {
                 animation: 'additive',
                 delay: 3,
