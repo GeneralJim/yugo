@@ -374,7 +374,8 @@ img.mfp-img {
   padding-top: 0; }
 
 .white-popup-block {
-    background:##e60012;
+    background:#ffffff;
+    color: #000000;
     text-align:left;
     max-width:650px;
     position:relative;
