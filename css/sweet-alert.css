@@ -16,7 +16,7 @@
 
 /* line 20, ../sass/sweet-alert.scss */
 .sweet-alert {
-  background-color: #fdd000;
+  background-color: #380825;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   width: 478px;
   padding: 17px;
@@ -137,7 +137,7 @@
 }
 /* line 146, ../sass/sweet-alert.scss */
 .sweet-alert .sa-icon.sa-error {
-  border-color: #853920;
+  border-color: limegreen;
 }
 /* line 149, ../sass/sweet-alert.scss */
 .sweet-alert .sa-icon.sa-error .sa-x-mark {
